@@ -1,0 +1,27 @@
+﻿Compilación iniciada a las 17/06/2016 15:24:45.
+     1>Proyecto "C:\Users\Elena\Desktop\Cosas Jorge\visual studio\Juego Damas\Juego Damas.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt src\Coordinador.cpp src\Main.cpp src\Mundo.cpp
+         Mundo.cpp
+         Generando código...
+         Compilando...
+         Coordinador.cpp
+         Generando código...
+         Compilando...
+         Main.cpp
+         Generando código...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Elena\Desktop\Cosas Jorge\visual studio\Juego Damas\Debug\Juego Damas.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Elena\Desktop\Cosas Jorge\visual studio\Juego Damas\Debug\Juego Damas.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Elena\Desktop\Cosas Jorge\visual studio\Juego Damas\Debug\Juego Damas.lib" /MACHINE:X86 Debug\Coordinador.obj
+         Debug\Logica_Hombre.obj
+         Debug\Logica_Maquina.obj
+         Debug\Main.obj
+         Debug\Mundo.obj
+         Debug\piece.obj
+         Debug\Tablero.obj
+         Debug\Vector2D.obj
+         Juego Damas.vcxproj -> C:\Users\Elena\Desktop\Cosas Jorge\visual studio\Juego Damas\Debug\Juego Damas.exe
+     1>Compilación del proyecto terminada "C:\Users\Elena\Desktop\Cosas Jorge\visual studio\Juego Damas\Juego Damas.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:04.86

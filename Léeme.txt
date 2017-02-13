@@ -1,0 +1,3 @@
+En este .zip se incluye un .pdf con la explicación de las reglas del juego, las instrucciones y la estructura del programa y
+una carpeta con la solución del Juego de Damas, que incluye el .exe (contruido en Release) en el directorio principal y
+los archivos del programa en la carpeta "src".

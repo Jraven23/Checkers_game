@@ -1,0 +1,4 @@
+﻿  piece.cpp
+  Logica_Maquina.cpp
+  Generating Code...
+  Juego Damas.vcxproj -> C:\Users\Alvaro\Desktop\Juego Damas\Debug\Juego Damas.exe
